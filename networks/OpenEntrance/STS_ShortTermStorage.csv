@@ -1,0 +1,9 @@
+Name,Zone,NumberUnits,MaxPower,MaxVolume,TurbineEfficiency,PumpingEfficiency,MinPower,MinVolume,Energy,Inflows,InitialVolume,AddPumpedStorage,MaxAddedCapacity,MaxRetCapacity,InvestmentCost
+Pumped Storage,BigFrance,1,21415.135491208086,2141513.5491208085,1.0,0.866,-21415.135491208086,0,0.0,0,0,0,0.0,0.0,0.0
+Pumped Storage,Spain,1,12371.79467268018,1237179.467268018,1.0,0.866,-12371.79467268018,0,0.0,0,0,0,0.0,0.0,0.0
+Compressed Air,Portugal,1,1.0,100.0,1.0,0.837,-1.0,0,0.0,0,0,0,1000.0,0.0,5000.0
+Compressed Air,BigFrance,1,1.0,100.0,1.0,0.837,-1.0,0,0.0,0,0,0,1000.0,0.0,5000.0
+Compressed Air,Spain,1,1.0,100.0,1.0,0.837,-1.0,0,0.0,0,0,0,1000.0,0.0,5000.0
+Lithium-Ion,Portugal,1,2929.1039506883176,11716.41580275327,1.0,0.95,-2929.1039506883176,0,0.0,0,0,0,1000.0,0.0,100.0
+Lithium-Ion,BigFrance,1,96977.25415537204,387909.01662148815,1.0,0.95,-96977.25415537204,0,0.0,0,0,0,1000.0,0.0,100.0
+Lithium-Ion,Spain,1,13730.774336736451,54923.097346945804,1.0,0.95,-13730.774336736451,0,0.0,0,0,0,1000.0,0.0,100.0
