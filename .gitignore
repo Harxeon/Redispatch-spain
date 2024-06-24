@@ -161,3 +161,11 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 networks/elec_s_1024.nc
+networks/elec_s_1024_spain.nc
+networks/elec_s_1024_aggregated.nc
+networks/elec_s_512.nc
+networks/elec_s_6_ec_lcopt_.nc
+networks/elec_s_2_ec_lcopt_2020_2030.nc
+networks/elec_s_2_ec_lcopt_2030_2030.nc
+networks/elec_s_8_ec_lcopt_Co2L-24H.nc
+networks/2020.nc
