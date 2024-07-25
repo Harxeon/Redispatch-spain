@@ -1,0 +1,66 @@
+Region,Name,NumberUnits,MaxPower
+Andalucía,CCGT,1,1738.7
+Andalucía,CCGT2,1,482.5
+Andalucía,CCGT3,1,3977.8
+Andalucía,biomass,1,20.0
+Andalucía,coal,1,543.02
+Andalucía,oil,1,60.2
+Andalucía,onwind,1,2660.22
+Andalucía,solar,1,1779.21
+Aragón,CCGT,1,500.82
+Aragón,OCGT,1,23.0
+Aragón,nuclear,1,4054.8
+Aragón,oil,1,26.46
+Aragón,onwind,1,945.95
+Aragón,ror,1,36.65
+Aragón,solar,1,480.17
+Cantabria,CCGT,1,2254.72
+Cantabria,onwind,1,1386.04
+Cantabria,solar,1,379.39
+Castilla y León,onwind,1,1162.47
+Castilla y León,solar,1,397.93
+Castilla-La Mancha,CCGT,1,105.0
+Castilla-La Mancha,CCGT2,1,106.5
+Castilla-La Mancha,oil,1,16.0
+Castilla-La Mancha,oil2,1,87.73
+Castilla-La Mancha,onwind,1,4457.61
+Castilla-La Mancha,solar,1,2463.28
+Cataluña,CCGT,1,3499.7
+Cataluña,nuclear,1,1045.3
+Cataluña,onwind,1,363.48
+Cataluña,ror,1,110.36
+Cataluña,solar,1,287.89
+Comunidad Foral de Navarra,CCGT,1,2035.9
+Comunidad Foral de Navarra,coal,1,1120.7
+Comunidad Foral de Navarra,onwind,1,2389.28
+Comunidad Foral de Navarra,solar,1,678.3
+Comunidad Valenciana,CCGT,1,12.68
+Comunidad Valenciana,CCGT2,1,3675.83
+Comunidad Valenciana,onwind,1,2739.78
+Comunidad Valenciana,solar,1,1155.95
+Comunidad de Madrid,CCGT,1,460.0
+Comunidad de Madrid,onwind,1,1001.58
+Comunidad de Madrid,solar,1,763.25
+Extremadura,nuclear,1,2017.1
+Extremadura,onwind,1,1286.9
+Extremadura,solar,1,615.61
+Galicia,CCGT,1,1427.48
+Galicia,oil,1,62.58
+Galicia,onwind,1,2136.93
+Galicia,solar,1,244.63
+La Rioja,CCGT,1,86.0
+La Rioja,coal,1,485.8
+La Rioja,onwind,1,2379.45
+La Rioja,solar,1,1064.55
+País Vasco,CCGT,1,2064.3
+País Vasco,onwind,1,1887.27
+País Vasco,solar,1,564.06
+Principado de Asturias,CCGT,1,452.1
+Principado de Asturias,coal,1,1521.35
+Principado de Asturias,oil,1,18.8
+Principado de Asturias,onwind,1,1380.89
+Principado de Asturias,solar,1,250.14
+Región de Murcia,CCGT,1,3425.3
+Región de Murcia,coal,1,1068.52
+Región de Murcia,onwind,1,648.0
+Región de Murcia,solar,1,557.19
